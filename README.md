@@ -1,4 +1,4 @@
-# 🤖 The Autonomous Companion Agent (ACA)
+ # 🤖 The Autonomous Companion Agent (ACA)
 
 A breakthrough implementation merging Autonomous Exploration with Real-Time Social Gameplay in Minecraft.
 
